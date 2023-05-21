@@ -1,0 +1,41 @@
+.input {
+  background-color: rgb(242, 182, 103);
+  width: 400px;
+  height: auto;
+  margin: 20px;
+}
+.main {
+  display: flex;
+  justify-content: center;
+}
+label {
+  font-weight: 900;
+}
+button {
+  background-color: brown;
+}
+.inner {
+  height: 500px;
+  width: 700px;
+  background-image: url("https://wallpapers.com/images/high/storm-lightning-strikes-at-desert-u717lracylesql1y.webp");
+  margin-top: 50px;
+  opacity: 0.9;
+}
+.date {
+  position: relative;
+  right: 270px;
+}
+.table {
+  height: auto;
+  color: rgb(231, 180, 12);
+  font-weight: 911;
+  font-size: 17px;
+}
+.span {
+  color: black;
+  border-bottom: 4px double rgb(27, 21, 21);
+}
+.out {
+  display: flex;
+  justify-content: center;
+}

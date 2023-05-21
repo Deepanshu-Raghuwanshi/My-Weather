@@ -1,0 +1,20 @@
+.linkStyle {
+  color: white;
+  text-decoration: none;
+}
+.headerContainer {
+  margin-bottom: 20px;
+}
+.linkStyle:hover {
+  color: white;
+}
+.activeStyle {
+  border-bottom: 3px double #ec1313;
+  border-top: 3px solid #ec1313;
+  padding: 5px;
+  color: white;
+  text-decoration: none;
+}
+.activeStyle:hover {
+  color: white;
+}
