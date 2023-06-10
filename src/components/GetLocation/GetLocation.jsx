@@ -15,7 +15,7 @@ const GetLocation = () => {
   const cityNavigate = () => {
     navigate("/cityPage");
   };
-  const weatherNavigate = () => {
+  const weatherNavigate = () => { 
     navigate("/weatherDisplay");
   };
 
