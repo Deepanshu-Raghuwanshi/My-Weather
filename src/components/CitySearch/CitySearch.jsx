@@ -131,10 +131,6 @@ const CitySearch = () => {
               <p className={styles.para}>
                 <span className={styles.span}>Sky -</span> {details.Main}
               </p>
-
-              <p className={styles.para}>
-                <span className={styles.span}>Icon -</span> {details.Icon}
-              </p>
             </div>
           </div>
         </div>
